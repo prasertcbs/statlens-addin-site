@@ -1,6 +1,5 @@
 # StatLens add-in (built files)
 
-Published by deploy_githubpage.ps1 from statlens-addin@fe02202-dirty.
+Published by deploy_githubpage.ps1 from statlens-addin@55a30a0.
 This repo holds only the built Excel add-in served by GitHub Pages; edits here are overwritten on the next deploy.
-
-Sideload manifest: https://prasertcbs.github.io/statlens-addin-site/manifest.xml
+The sideload manifest is not published here; it is shared through the add-in catalog.
