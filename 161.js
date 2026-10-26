@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstatlens_addin=self.webpackChunkstatlens_addin||[]).push([[161],{45161:function(n,t,e){var s=e(83657);function a(n){return new Proxy({},{get(t,e){if("symbol"!=typeof e)throw new s.pJ(`\`${n}.${e}\` is not available in this environment; it needs a Node.js-compatible runtime`)}})}const i=a("fs"),o=a("path");e.d(t,["fs",0,i,"path",0,o])}}]);
